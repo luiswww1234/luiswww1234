@@ -1,0 +1,10 @@
+{
+  "_fv": 28,
+  "_type": "fuel",
+  "definition": {
+    "power": 19200,
+    "block": {
+      "value": "Blocks.MAGMA"
+    }
+  }
+}

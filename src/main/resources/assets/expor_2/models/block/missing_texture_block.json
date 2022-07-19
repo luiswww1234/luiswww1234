@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "expor_2:blocks/missin",
+    "particle": "expor_2:blocks/missin"
+  }
+}
