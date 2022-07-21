@@ -33,6 +33,7 @@ import java.util.function.BiConsumer;
 import expor.slice.init.Expor2ModItems;
 import expor.slice.init.Expor2ModEnchantments;
 import expor.slice.init.Expor2ModBlocks;
+import expor.slice.init.Expor2ModBiomes;
 
 @Mod("expor_2")
 public class Expor2Mod {
@@ -50,6 +51,8 @@ public class Expor2Mod {
 		Expor2ModItems.REGISTRY.register(bus);
 
 		Expor2ModEnchantments.REGISTRY.register(bus);
+
+		Expor2ModBiomes.REGISTRY.register(bus);
 
 	}
 
